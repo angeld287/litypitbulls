@@ -1,0 +1,10 @@
+/node_modules
+
+client/node_modules
+client/public/env-config.js
+client/env-config.js
+
+server/node_modules
+server/.logs
+
+dist
